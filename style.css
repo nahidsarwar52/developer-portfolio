@@ -1,0 +1,40 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.name {
+    color: darkorange
+}
+
+section {
+    display: flex;
+}
+
+.width-half {
+    width: 50%;
+    padding-left: 20px;
+}
+
+.width-half img {
+    width: 80%;
+}
+
+.button {
+    background-color: rgb(245, 32, 32);
+    text-decoration: none;
+    padding: 10px 30px;
+    color: aliceblue;
+    border-radius: 5px;
+    font-weight: 700;
+
+}
+
+.banner1 {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
